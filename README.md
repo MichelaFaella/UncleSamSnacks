@@ -1,6 +1,6 @@
 # UncleSamSnacks-
 <p align = "center">
-  <img src = "logo.png" width="800" height="200">
+  <img src = "Logo sito.png" width="256" height="256">
 </p>
 
 <h4 align = "center">Java EE 8 Web App for an e-commerce</h4>
