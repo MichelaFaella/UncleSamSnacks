@@ -21,3 +21,9 @@ Produced for the Web Technologies and Software course of Computer Science at Uni
 ## Documentation
 
 * DB's scripct can be found in *databaseUltimato*  directory.
+
+# Contributors
+
+<a href="https://github.com/GerardoBrescia/JustTraditions/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=benedettoScala/UncleSamSnacks" />
+</a>
